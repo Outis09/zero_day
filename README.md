@@ -1,3 +1,3 @@
-\\#Background
+\#Background
 
 This is my README.
